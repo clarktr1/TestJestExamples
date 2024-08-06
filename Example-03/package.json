@@ -1,0 +1,16 @@
+{
+  "main": "index.js",
+  "author": "Trey Clark",
+  "website": "https://github.com/clarktr1",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "supertest": "^7.0.0"
+  }
+}
