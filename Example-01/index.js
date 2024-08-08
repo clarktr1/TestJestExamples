@@ -16,7 +16,7 @@ const result2 = FizzBuzz(5);
 const result3 = FizzBuzz(15);
 
 console.log(`Output with 3: ${result1}`); // Output: Fizz
-console.log(`Output 5: ${result2}`); // Output: Buzz
+console.log(`Output with 5: ${result2}`); // Output: Buzz
 console.log(`Output with 15: ${result3}`); // Output: FizzBuzz
 
 module.exports = FizzBuzz;

@@ -1,4 +1,4 @@
-#  📘 Implement Code to Past Tests
+#  📘 Implement Tests to Verify Code Functionality
 
 Implement the following user story:
 * As a developer, I want to write tests that will show my code works.
@@ -6,7 +6,7 @@ Implement the following user story:
 ## ✅ Acceptance Criteria
 
 It's done when I:
-* have written code for the test suite in `fizzbuzz.test.js`
+* have written test suite in `fizzbuzz.test.js`
 * can run `npm run test` in the command line and pass all of the written tests
 
 ## 💡 Hints

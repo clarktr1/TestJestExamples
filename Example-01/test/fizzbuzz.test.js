@@ -2,6 +2,10 @@ const fizzbuzz = require('../index.js');
 
 describe('Check all fizzbuzz outputs', () => {
 
-    //TO DO: write test cases to check all outputs of fizzbuzz
+    //TO DO: Write a test to check for 'fizz'
+
+    //TO DO: Write a test to check for 'buzz'
+
+    //TO DO: Write a test to check for 'fizzbuzz'
 
 });
